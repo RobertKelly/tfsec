@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/hashicorp/go-version v1.3.0
+	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.10.0
 	github.com/hashicorp/terraform v0.15.3
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
@@ -14,7 +15,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/owenrumney/go-sarif v1.0.4
 	github.com/rivo/uniseg v0.2.0 // indirect
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.7.0
 	github.com/zclconf/go-cty v1.8.3
 	github.com/zclconf/go-cty-yaml v1.0.2
